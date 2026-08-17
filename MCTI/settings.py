@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-sh^p8w%bis48zqc@lxy)515f$7(ygw^i9xa8@*@gu1w1c%-#ca
 DEBUG = True
 
 ALLOWED_HOSTS = ["192.168.0.162",   "localhost",
-    "127.0.0.1",]
+    "127.0.0.1",    "mcti-backend-ten.vercel.app",
+]
 CORS_ALLOW_ALL_ORIGINS = True
 
 
